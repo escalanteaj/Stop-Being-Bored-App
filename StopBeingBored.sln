@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StopBeingBored", "StopBeingBored.pyproj", "{DF5563B5-CFFA-48DE-AC82-EAAE121851BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5563B5-CFFA-48DE-AC82-EAAE121851BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5563B5-CFFA-48DE-AC82-EAAE121851BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21AEC878-36E6-442E-A395-57887BFB1166}
+	EndGlobalSection
+EndGlobal
